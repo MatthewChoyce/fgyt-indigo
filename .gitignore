@@ -1,2 +1,14 @@
 TODO
 /config-*.yml
+.DS_Store
+theme/.DS_Store
+theme/cms/.DS_Store
+theme/cms/static/.DS_Store
+theme/cms/static/images/.DS_Store
+theme/lms/.DS_Store
+theme/lms/static/.DS_Store
+theme/lms/static/images/.DS_Store
+theme/lms/static/sass/.DS_Store
+theme/lms/static/sass/partials/.DS_Store
+theme/lms/static/sass/partials/lms/.DS_Store
+theme/lms/templates/.DS_Store
