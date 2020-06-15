@@ -19,7 +19,7 @@ Clone the theme repository::
 
 Render your theme::
     
-    tutor config render --extra-config ./fgyt-indigo/config.yml ./fgyt-indigo/theme "$(tutor config printroot)/env/build/openedx/themes/fgyt-indigo"
+    tutor config render --extra-config ./fgyt-indigo/config.yml ./fgyt-indigo/theme "$(tutor config printroot)/env/build/openedx/themes/indigo"
 
 Rebuild the Openedx docker image::
 
